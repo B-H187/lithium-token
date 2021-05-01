@@ -10,7 +10,7 @@ contract Lithium is ERC20 {
   event MinterChanged(address indexed from, address to);
 
   constructor() public payable ERC20("Lithium", "LTH") {
-    //asign initial minter
+    //assign initial minter
     minter = msg.sender;
   }
 

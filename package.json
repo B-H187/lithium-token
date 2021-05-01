@@ -1,8 +1,8 @@
 {
-  "name": "dbank",
+  "name": "lthbank",
   "version": "0.1.0",
-  "description": "Decentralized Bank",
-  "author": "dev@dappuniversity.com",
+  "description": "Lithium Bank",
+  "author": "bartlomiej.domek@googlemail.com",
   "homepage": ".",
   "dependencies": {
     "@openzeppelin/contracts": "3.3.0",
